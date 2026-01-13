@@ -7,7 +7,7 @@ const Hoookkkkkk = () => {
     console.log(count);
 
     // let count=0
-    let inc=()=>{git init
+    let inc=()=>{
       
           setCount(count+1) 
     }
